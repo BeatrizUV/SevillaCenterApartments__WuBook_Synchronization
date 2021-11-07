@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<apartamentos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="calendars.xsd">
+    <apartamento nombre="b1">     
+        <wimdu>https://www.wimdu.es/offers/EHAQSJLM/calendar.ics?token=e5c84b13a5057c1c0245f4f21a458fc3</wimdu>
+        <housetrip>http://www.housetrip.es/es/propiedades/ical/HejdloVzjN0=/housetrip.ics</housetrip>
+        <homeaway>no</homeaway>
+        <wubook>https://wubook.net/wbkd/ical/ics-19674-172f242c2bb21cc3bbb5e996ca96bbed.ics</wubook>
+        <wubook_id>128535</wubook_id>
+    </apartamento>
+    <apartamento nombre="b2">     
+        <wimdu>https://www.wimdu.es/offers/KDJBHWIU/calendar.ics?token=f03f0b3fcad3762f0d0c7e4777f69b11</wimdu>
+        <housetrip>http://www.housetrip.es/es/propiedades/ical/XrWzKaLIE24=/housetrip.ics</housetrip>
+        <homeaway>http://www.homeaway.es/icalendar/9dde833986164a60859c6acc15cf2f24.ics</homeaway>
+        <wubook>https://wubook.net/wbkd/ical/ics-19674-90a6a8944f1998c34b87de0de793300b.ics</wubook>
+        <wubook_id>128539</wubook_id>
+    </apartamento>
+    <apartamento nombre="b3">     
+        <wimdu>https://www.wimdu.es/offers/11CZ0ABB/calendar.ics?token=84b284f825c2907dc31d82f40eea5099</wimdu>
+        <housetrip>http://www.housetrip.es/es/propiedades/ical/i0Y14zFX-4M=/housetrip.ics</housetrip>
+        <homeaway>http://www.homeaway.es/icalendar/7baa090d1ebd45c588a53e027160d54d.ics</homeaway>
+        <wubook>https://wubook.net/wbkd/ical/ics-19674-1592676763ba3b2202491440e1d8f040.ics</wubook>
+        <wubook_id>128542</wubook_id>
+    </apartamento>
+    <apartamento nombre="b4">     
+        <wimdu>https://www.wimdu.es/offers/YMSUNUB3/calendar.ics?token=da8c23a75b11e8cf9753c797a806b781</wimdu>
+        <housetrip>http://www.housetrip.es/es/propiedades/ical/QL7_OYjbJB8=/housetrip.ics</housetrip>
+        <homeaway>no</homeaway>
+        <wubook>https://wubook.net/wbkd/ical/ics-19674-b31c7c5ed859b280e47d5153d5e11fde.ics</wubook>
+        <wubook_id>128543</wubook_id>
+    </apartamento>
+    <apartamento nombre="b5">     
+        <wimdu>https://www.wimdu.es/offers/ZTWERPI5/calendar.ics?token=d6ce85fa9924166d3bf34ac9ff335097</wimdu>
+        <housetrip>http://www.housetrip.es/es/propiedades/ical/Zulx1R4m8_o=/housetrip.ics</housetrip>
+        <homeaway>no</homeaway>
+        <wubook>https://wubook.net/wbkd/ical/ics-19674-5988c8ead1027496d65937e141c87a8b.ics</wubook>
+        <wubook_id>128544</wubook_id>
+    </apartamento>
+    <apartamento nombre="1i">     
+        <wimdu>https://www.wimdu.es/offers/D0OHV3HR/calendar.ics?token=89f596739c328c5fd6e9bcf6e888f47d</wimdu>
+        <housetrip>http://www.housetrip.es/es/propiedades/ical/sz-P1t1ApNs=/housetrip.ics</housetrip>
+        <homeaway>http://www.homeaway.es/icalendar/16018369fa92495d867af5b166fab331.ics</homeaway>
+        <wubook>https://wubook.net/wbkd/ical/ics-19674-87fcb026c234e80778f254de05ec4c27.ics</wubook>
+        <wubook_id>128524</wubook_id>
+    </apartamento>
+    <apartamento nombre="1d">     
+        <wimdu>https://www.wimdu.es/offers/3ZXZVCZA/calendar.ics?token=d437f97833c97868c2a52d25ab9659d5</wimdu>
+        <housetrip>http://www.housetrip.es/es/propiedades/ical/eFSNx1AmuYQ=/housetrip.ics</housetrip>
+        <homeaway>no</homeaway>
+        <wubook>https://wubook.net/wbkd/ical/ics-19674-7961729dca5d477e73ed1c1016f4b5b9.ics</wubook>
+        <wubook_id>128523</wubook_id>
+    </apartamento>
+    <apartamento nombre="2i">     
+        <wimdu>https://www.wimdu.es/offers/D1PHZ8TT/calendar.ics?token=71eb3fc52408224e987c45095da09269</wimdu>
+        <housetrip>http://www.housetrip.es/es/propiedades/ical/qZif_7U4MZE=/housetrip.ics</housetrip>
+        <homeaway>no</homeaway>
+        <wubook>https://wubook.net/wbkd/ical/ics-19674-1a7641b9ffe0c822e51c2d43e8375ce4.ics</wubook>
+        <wubook_id>128528</wubook_id>
+    </apartamento>
+    <apartamento nombre="2d">     
+        <wimdu>https://www.wimdu.es/offers/8K0SKDFF/calendar.ics?token=80d38a8b8df9953756a59b4b80b221b9</wimdu>
+        <housetrip>http://www.housetrip.es/es/propiedades/ical/NTRxv9uKWu4=/housetrip.ics</housetrip>
+        <homeaway>no</homeaway>
+        <wubook>https://wubook.net/wbkd/ical/ics-19674-e1d6d8dff1ee51ad6262cb4cc1448a8b.ics</wubook>
+        <wubook_id>129499</wubook_id>
+    </apartamento>
+    <apartamento nombre="ai">     
+        <wimdu>https://www.wimdu.es/offers/PJLOUOZK/calendar.ics?token=bab240822dc5aa1b218e8127ad9878cf</wimdu>
+        <housetrip>http://www.housetrip.es/es/propiedades/ical/npYfG-9sxm4=/housetrip.ics</housetrip>
+        <homeaway>http://www.homeaway.es/icalendar/117c4a3a67e24e668ad9045cf9158666.ics</homeaway>
+        <wubook>https://wubook.net/wbkd/ical/ics-19674-f34a6a3e9dada539eacebdaab8b7ebeb.ics</wubook>
+        <wubook_id>129500</wubook_id>
+    </apartamento>
+    <apartamento nombre="ac">     
+        <wimdu>https://www.wimdu.es/offers/CG8DAM89/calendar.ics?token=c442c548c630c770257fcf7b8541f30f</wimdu>
+        <housetrip>http://www.housetrip.es/es/propiedades/ical/i_L8EOjS5OM=/housetrip.ics</housetrip>
+        <homeaway>no</homeaway>
+        <wubook>https://wubook.net/wbkd/ical/ics-19674-1db6c965a2b2481c38a8e10014c48d73.ics</wubook>
+        <wubook_id>128530</wubook_id>
+    </apartamento>
+    <apartamento nombre="ad">     
+        <wimdu>https://www.wimdu.es/offers/YOOU6UDP/calendar.ics?token=e23eb8379499040859457aa065aac278</wimdu>
+        <housetrip>http://www.housetrip.es/es/propiedades/ical/ZoSBbp_0W1M=/housetrip.ics</housetrip>
+        <homeaway>http://www.homeaway.es/icalendar/919d38d137c1401e95843bacb1b14c72.ics</homeaway>
+        <wubook>https://wubook.net/wbkd/ical/ics-19674-f0198513ea3ecccbef1155c4f5eeaa43.ics</wubook>
+        <wubook_id>128533</wubook_id>
+    </apartamento>
+</apartamentos>

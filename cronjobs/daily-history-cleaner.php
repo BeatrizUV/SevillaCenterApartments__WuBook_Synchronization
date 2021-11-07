@@ -1,0 +1,32 @@
+<?php
+    /**
+    * TÍTULO: Tarea cron para eliminar todos los historiales de cambios en WuBook
+    * EMPRESA: S&L Apartamentos
+    * AUTOR: Beatriz Urbano Vega
+    * FECHA: 08/06/2016
+    */
+
+    // Ruta de los archivos del historial
+    $historyPath = $_SERVER['DOCUMENT_ROOT'].'/wubook-synchro/history';
+    $todaySeconds = time();
+    $weekSeconds = $todaySeconds - (3600 * 24 * 7);
+    $week = date('Y-m-d', $weekSeconds);
+
+    try {
+        $filename = $historyPath . '/' . $week . '.log';
+        
+        if (file_exists($filename)) {
+            unlink($filename);
+        }
+    } catch (Exception $ex) {
+        abort();
+    }
+    
+    function abort() {
+        // Cambiamos el nombre al archivo ejecutado para evitar próximas ejecuciones hasta arreglar el problema
+        rename('daily-history-cleaner.php', '.error');
+        // Y notificamos el error por email
+        mail(_SUPPORT_EMAIL, '[SCA] PROBLEMAS DE LIMPIEZA', 'Ha ocurrido un error al intentar eliminar registros antiguos de las actualizaciones del calendario.', 'From: ' . _SUPPORT_EMAIL);
+        die();
+    }
+?>
